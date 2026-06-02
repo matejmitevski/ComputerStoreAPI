@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\bin\Debug\net8.0\ComputerStore.DAL.deps.json
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\bin\Debug\net8.0\ComputerStore.DAL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\bin\Debug\net8.0\ComputerStore.DAL.pdb
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\refint\ComputerStore.DAL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ComputerStore.DAL.pdb
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.DAL\obj\Debug\net8.0\ref\ComputerStore.DAL.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ComputerStoreApi.BLL/ComputerStore.BLL.csproj" Id="4681c1c4-3687-4505-8247-17cc6d69866d" />
+  <Project Path="ComputerStoreApi.DAL/ComputerStore.DAL.csproj" Id="151826d2-ce43-4161-8edf-41eb1f6d0738" />
+  <Project Path="ComputerStoreApi.IntegrationTests/ComputerStore.IntegrationTests.csproj" Id="bb8b0b58-2bc5-4f59-ae2c-2d4d203a071d" />
+  <Project Path="ComputerStoreAPi.Tests/ComputerStore.Tests.csproj" Id="124b8232-9bf2-4732-892a-fe7f18ec5ead" />
+  <Project Path="ComputerStoreApi/ComputerStore.Api.csproj" Id="cda42fce-2f1f-4b5d-a132-2481e98993e2" />
+</Solution>

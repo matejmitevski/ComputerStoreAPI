@@ -1,0 +1,354 @@
+{
+	"info": {
+		"_postman_id": "e73aa17f-739e-4b80-b30b-2ce50a3103ee",
+		"name": "Computer Store API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44822226",
+		"_collection_link": "https://matej9-8247.postman.co/workspace/Matej~77574926-9da6-463d-aa4c-079056475f8a/collection/44822226-e73aa17f-739e-4b80-b30b-2ce50a3103ee?action=share&source=collection_link&creator=44822226"
+	},
+	"item": [
+		{
+			"name": "Categories",
+			"item": [
+				{
+					"name": "Categories",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5120/api/Categories",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Categories"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Categories/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Categories/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Categories",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Categories",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"name\": \"GPU\",\r\n  \"description\": \"Graphics cards\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Categories",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Categories"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Categories/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"CPU\",\r\n    \"description\": \"Computer processor and central processing unit\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Categories/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Categories",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Categories/5",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Categories/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Categories",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Products",
+			"item": [
+				{
+					"name": "Products",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5120/api/Products",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"name\": \"AMD Ryzen 7 9700x3d\",\r\n        \"description\": \"High performance CPU\",\r\n        \"price\": 559.99,\r\n        \"quantity\": 8,\r\n        \"categoryIds\": [1]\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Products",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Products/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"name\": \"AMD Ryzen 7 9700x3d\",\r\n        \"description\": \"High performance CPU\",\r\n        \"price\": 559.99,\r\n        \"quantity\": 8,\r\n        \"categoryIds\": [1]\r\n    }"
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Products/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Products",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Products/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Intel's Core i9-9900K\",\r\n    \"description\": \"High performance Intel Based CPU\",\r\n    \"price\": 475.99,\r\n    \"quantity\": 10,\r\n    \"categoryIds\": [1]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Products/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Products",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Products/3",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5120/api/Products/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Products",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Stock",
+			"item": [
+				{
+					"name": "Stock/Import",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"name\": \"Samsung 990 Pro SSD 1TB\",\r\n    \"categories\": [\"SSD\", \"Storage\"],\r\n    \"price\": 119.99,\r\n    \"quantity\": 12\r\n  },\r\n  {\r\n    \"name\": \"Corsair Vengeance 32GB RAM\",\r\n    \"categories\": [\"RAM\", \"Memory\"],\r\n    \"price\": 89.99,\r\n    \"quantity\": 8\r\n  },\r\n  {\r\n    \"name\": \"AMD Ryzen 7 9700x3d\",\r\n    \"categories\": [\"CPU\"],\r\n    \"price\": 559.99,\r\n    \"quantity\": 8\r\n  }\r\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Stock/import",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Stock",
+								"import"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Basket/Calculate-discount",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"items\": [\r\n    {\r\n      \"productId\": 1,\r\n      \"quantity\": 2\r\n    },\r\n    {\r\n      \"productId\": 2,\r\n      \"quantity\": 1\r\n    }\r\n  ]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5120/api/Basket/calculate-discount",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5120",
+							"path": [
+								"api",
+								"Basket",
+								"calculate-discount"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

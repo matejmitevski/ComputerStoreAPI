@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\bin\Debug\net8.0\ComputerStore.BLL.deps.json
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\bin\Debug\net8.0\ComputerStore.BLL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\bin\Debug\net8.0\ComputerStore.BLL.pdb
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\bin\Debug\net8.0\ComputerStore.DAL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\bin\Debug\net8.0\ComputerStore.DAL.pdb
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\Computer.AFB6BD28.Up2Date
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\refint\ComputerStore.BLL.dll
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ComputerStore.BLL.pdb
+C:\Users\User\Desktop\MatejMitevski_5827_IS\IS_Project\ComputerStoreApi.BLL\obj\Debug\net8.0\ref\ComputerStore.BLL.dll
